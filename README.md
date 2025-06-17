@@ -1,1 +1,4 @@
-# rivase
+# リバーシ
+- html
+- css
+- js
