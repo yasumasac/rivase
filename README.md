@@ -1,4 +1,4 @@
 # リバーシ
-- html
 - css
+- html
 - js
